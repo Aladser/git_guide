@@ -1,26 +1,26 @@
 # Инструкция по работе с GIT 2022
 
-## [1. Установка](git_install.md)
+## [1. Установка](./md%20files/git_install.md)
 
-## [2. Настройка](git_setup.md) 
+## [2. Настройка](./md%20files/git_setup.md) 
 
-## [3. Состояния репозитория](rep_status.md)
+## [3. Состояния репозитория](./md%20files/rep_status.md)
 
-## [4. Создание локального репозитория](create_locrep.md)
+## [4. Создание локального репозитория](./md%20files/create_locrep.md)
 
-## [5. Внесение изменений](commit.md)
+## [5. Внесение изменений](./md%20files/commit.md)
 
-## [6. Создание удаленного репозитория](create_remrep.md)
+## [6. Создание удаленного репозитория](./md%20files/create_remrep.md)
 
-## [7. Копирование существующего репозитория](clone_rep.md)
+## [7. Копирование существующего репозитория](./md%20files/clone_rep.md)
 
-## [7. Игнорирование файлов. gitignore](ignore.md)
+## [8. Игнорирование файлов. gitignore](./md%20files/ignore.md)
 
-## [8. Ветвление](branching.md)
+## [9. Ветвление](./md%20files/branching.md)
 
-## [9. Переименование и удаление удалённых репозиториев](rename_delete.md)
+## [10. Переименование и удаление удалённых репозиториев](./md%20files/rename_delete.md)
 
-## [10. Конфликты](conflicts.md)
+## [11. Конфликты](./md%20files/conflicts.md)
 
-## [11. Рекомендации по написанию коммитов](recomendations.md)
+## [12. Рекомендации по написанию коммитов](./md%20files/recomendations.md)
 
