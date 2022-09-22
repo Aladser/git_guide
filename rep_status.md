@@ -2,59 +2,60 @@
 
 &emsp; &ensp;```status``` — это еще одна важнейшая команд, показывающая информацию о текущем состоянии репозитория
 
-&emsp; &ensp; Ввод ```status``` на новом репозитории должен выдать:
+&emsp; &ensp; Статус нового репозитория:
 
----
+On branch master
 
-&ensp;```$ git status```
+No commits yet
 
-&ensp;On branch master
+nothing to commit (create/copy files and use "git add" to track)
 
-&ensp; No commits yet
+&emsp; &ensp;Добавление нового файла в репозиторий:
 
-&ensp; nothing to commit (create/copy files and use "git add" to track)
+On branch master
 
----
-&emsp; &ensp;Добавим новый файл в репозитории. Статус:
+Your branch is up to date with 'origin/master'.
 
----
-
-&ensp;```$ git status```
-
-&ensp;On branch master
-
-&ensp; Your branch is up to date with 'origin/master'.
-
-&ensp;Changes not staged for commit:
+Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
         
-&emsp; &ensp;&emsp; &ensp;&emsp; &ensp;&emsp; &ensp; 
+&ensp;&emsp; &ensp; 
 <span style="color:red">modified: readme.md</span>
 
-&ensp;Untracked files:
+Untracked files:
   
-&ensp; (use "git add <file>..." to include in what will be committed)
+(use "git add <file>..." to include in what will be committed)
 
-&ensp;<span style="color:red">git_install.md</span>
+&ensp;&emsp;<span style="color:red">git_install.md</span>
 
-&ensp;<span style="color:red">git_install.md</span>
+&ensp;&emsp;<span style="color:red">git_install.md</span>
 
-&ensp;<span style="color:red">license.md</span>
+&ensp;&emsp;<span style="color:red">license.md</span>
 
-&ensp;<span style="color:red">rep_status.md</span>
+&ensp;&emsp;<span style="color:red">rep_status.md</span>
 
-&ensp;<span style="color:red">"\321\202\320\265\321\201\321\202.txt"</span>
+&ensp;&emsp;<span style="color:red">"\321\202\320\265\321\201\321\202.txt"</span>
 
+no changes added to commit (use "git add" and/or "git commit -a")
 
-&ensp;no changes added to commit (use "git add" and/or "git commit -a")
+&emsp; &ensp; Внесем изменения:
 
----
+On branch master
 
-Внесем изменения:
+Your branch is ahead of 'origin/master' by 1 commit.
 
-```git commit -m "тестирование докумнетации 1"```
+&ensp;&emsp;(use "git push" to publish your local commits)
 
-Отправим изменения в удаленный репозиторий:
+Changes not staged for commit:
+
+&ensp;&emsp;(use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+
+&ensp;&emsp;modified:   rep_status.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+&emsp; &ensp;Отправим изменения в удаленный репозиторий:
 
 
