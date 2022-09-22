@@ -1,8 +1,8 @@
 # Состояния репозитория
 
-&emsp; &ensp;```status``` — это еще одна важнейшая команд, показывающая информацию о текущем состоянии репозитория
+&emsp; &ensp;```status``` — это еще одна важнейшая команда, показывающая информацию о текущем состоянии репозитория  
 
-&emsp; &ensp; Статус нового репозитория:
+&emsp; &ensp; ***Статус нового репозитория:***  
 
 On branch master
 
@@ -10,7 +10,7 @@ No commits yet
 
 nothing to commit (create/copy files and use "git add" to track)
 
-&emsp; &ensp;Добавление нового файла в репозиторий:
+&emsp; &ensp;***Добавление нового файла в репозиторий:***
 
 On branch master
 
@@ -20,8 +20,7 @@ Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
         
-&ensp;&emsp; &ensp; 
-<span style="color:red">modified: readme.md</span>
+&ensp;&emsp;<span style="color:red">modified: readme.md</span>
 
 Untracked files:
   
@@ -39,7 +38,7 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-&emsp; &ensp; Внесем изменения:
+&emsp; &ensp; ***Внесем изменения:***
 
 On branch master
 
@@ -52,10 +51,15 @@ Changes not staged for commit:
 &ensp;&emsp;(use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
 
-&ensp;&emsp;modified:   rep_status.md
+&ensp;&emsp;<span style="color:red">modified:   rep_status.md</span> 
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-&emsp; &ensp;Отправим изменения в удаленный репозиторий:
+&emsp; &ensp;***Отправим изменения в удаленный репозиторий:***
 
+On branch master
+
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
 
