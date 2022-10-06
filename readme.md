@@ -2,7 +2,7 @@
 
 ## [1. Установка](./md%20files/git_install.md)
 
-## [2. Создание репозитория](./md%20files/create_locrep.md)
+## [2. Создание репозитория](./md%20files/create_rep.md)
 
 ## [3. Внесение изменений](./md%20files/commit.md)
 
