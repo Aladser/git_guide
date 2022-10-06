@@ -2,8 +2,6 @@
 
 ## [1. Установка](./md%20files/git_install.md)
 
-## [2. Настройка](./md%20files/git_setup.md) 
-
 ## [3. Состояния репозитория](./md%20files/rep_status.md)
 
 ## [4. Создание локального репозитория](./md%20files/create_locrep.md)
