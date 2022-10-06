@@ -1,6 +1,6 @@
 # Установка и настройка GIT
 
-&emsp; &ensp; [Загрузка Git for Windows](https://git-scm.com/downloads).
+&emsp; &ensp; [Скачать Git for Windows](https://git-scm.com/downloads).
 
    Добавим имя пользователя и электронная почта:
 
