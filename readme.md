@@ -6,8 +6,6 @@
 
 ## [5. Внесение изменений](./md%20files/commit.md)
 
-## [6. Создание удаленного репозитория](./md%20files/create_remrep.md)
-
 ## [7. Копирование существующего репозитория](./md%20files/clone_rep.md)
 
 ## [8. Игнорирование файлов. gitignore](./md%20files/ignore.md)
