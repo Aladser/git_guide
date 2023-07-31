@@ -4,12 +4,12 @@
 
    Добавим имя пользователя и электронная почта:
 
-   git config –global user.name “Name”
+   git config -–global user.name “Name”
 
-   git config –global user.email example@exp.com
+   git config -–global user.email example@exp.com
 
    Git хранит весь пакет конфигураций в файле .gitconfig, находящемся в локальном каталоге. Чтобы сделать эти настройки глобальными, необходимо добавить флаг –global. Если этого не сделать, они будут распространяться только на текущий репозиторий.
 
     Чтобы посмотреть все настройки системы, используйте команду:
 
-    git config –list
+    git config -–list
