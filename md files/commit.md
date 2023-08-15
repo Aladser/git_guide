@@ -12,10 +12,10 @@
 
 ```git log```
 
-  Игнорирование изменений в файлах
+&emsp; &ensp;Игнорирование изменений в файлах
 ```git update-index --assume-unchanged application/config/database.php```
 
-либо всю папку
+всю папку:
 
 ```git update-index --assume-unchanged application/config/*```
 
