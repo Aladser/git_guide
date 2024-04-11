@@ -1,18 +1,19 @@
 # Инструкция по GIT
 
-## [1. Установка](./md%20files/git_install.md)
+## [Персональный токен](./md%20files/token.md)
 
-## [2. Создание репозитория](./md%20files/create_rep.md)
+## [Установка](./md%20files/git_install.md)
 
-## [3. Внесение изменений](./md%20files/commit.md)
+## [Создание репозитория](./md%20files/create_rep.md)
 
-## [4. Копирование репозитория](./md%20files/clone_rep.md)
+## [Внесение изменений](./md%20files/commit.md)
 
-## [5. Игнорирование файлов. gitignore](./md%20files/ignore.md)
+## [Копирование репозитория](./md%20files/clone_rep.md)
 
-## [6. Ветвление](./md%20files/branching.md)
+## [Игнорирование файлов. gitignore](./md%20files/ignore.md)
 
-## [7. Переименование и удаление удалённых репозиториев](./md%20files/rename_delete.md)
+## [Ветвление](./md%20files/branching.md)
 
-## [8. Рекомендации по написанию коммитов](./md%20files/recomendations.md)
+## [Переименование и удаление удалённых репозиториев](./md%20files/rename_delete.md)
 
+## [Рекомендации по написанию коммитов](./md%20files/recomendations.md)
