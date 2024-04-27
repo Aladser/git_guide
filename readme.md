@@ -1,6 +1,6 @@
 # Инструкция по GIT
 
-## [Персональный токен](./md%20files/token.md)
+## [Персональный токен и SSH-ключ](./md%20files/token.md)
 
 ## [Установка](./md%20files/git_install.md)
 
