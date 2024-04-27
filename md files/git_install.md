@@ -1,4 +1,4 @@
-# Установка и настройка GIT
+# Первая настройка GIT
 
 &emsp; &ensp; [Скачать Git for Windows](https://git-scm.com/downloads).
 
