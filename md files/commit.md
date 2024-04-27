@@ -20,4 +20,6 @@
 
 ```git update-index --assume-unchanged application/config/*```
 
+&emsp; &ensp; Удалить файл из репозитория
 
+``git rm --cached {название файла}`` - удаление файла из репозитория
