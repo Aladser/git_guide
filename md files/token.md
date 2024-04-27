@@ -21,8 +21,8 @@
 ```
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_ed25519
-cat ~/.ssh/id_ed25519.pub
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
 ```
 
 + Скопируйте после команды ``cat`` выведенный в терминал ключ и добавьте скопированный SSH-ключ в аккаунт GitHub
