@@ -19,7 +19,7 @@
 + Добавьте ключ в настройки GitHub.
 
 ```
-ssh-keygen -t ed25519 -C "name@email.com"
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_ed25519
 cat ~/.ssh/id_ed25519.pub
