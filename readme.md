@@ -2,7 +2,7 @@
 
 ## [Персональный токен и SSH-ключ](./md%20files/token.md)
 
-## [Установка](./md%20files/git_install.md)
+## [Первая настройка](./md%20files/git_install.md)
 
 ## [Создание репозитория](./md%20files/create_rep.md)
 
