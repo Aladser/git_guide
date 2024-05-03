@@ -20,3 +20,15 @@
 
 - Удаление файла из индекса
 ``git rm –cached <имя файла>``
+
+
+Если внести файл в .gitignore, то он не будет отслеживаться гитом лишь в том случае, если этого файла нет в удаленном репозитории.
+
+Но если в репозитории уже есть (к примеру конфиги сайта), а мы не хотим, чтобы наши локальные конфиги отслеживались, то можно выполнить команду:
+``git update-index --assume-unchanged application/config/database.php``
+
+либо всю папку
+``git update-index --assume-unchanged /storage/logs/*``
+
+Чтобы перестать игнорировать изменения, нужно использовать параметр --no-assume-unchanged.
+``git update-index --no-assume-unchanged application/config/*``
